@@ -1,7 +1,7 @@
 baseURL: https://havb.netlify.app
 theme: hugo-apero
 languageCode: en
-title: H. ANTONIO VAZQUEZ BRUST
+title: ANTONIO VAZQUEZ BRUST
 author: Antonio Vazquez Brust
 copyright: ''
 googleAnalytics: ''
@@ -36,7 +36,7 @@ params:
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: /img/favicon.ico
   headingFontFamily: sans-serif
-  logo: /img/avatar-icon_bnb.png
+  #logo: /img/house-solid.png
   mainSections:
     - about
     - project
@@ -72,7 +72,7 @@ params:
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: sky
+  theme: grayscale
   twitter: vazquezbrust
   utterances:
     issue_term: pathname
