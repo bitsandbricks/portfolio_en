@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://havb.netlify.app
 theme: hugo-apero
 languageCode: en
 title: H. ANTONIO VAZQUEZ BRUST
