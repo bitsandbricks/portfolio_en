@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on ANTONIO VAZQUEZ BRUST</title>
-    <link>//localhost:4321/about/</link>
+    <link>http://localhost:4321/about/</link>
     <description>Recent content in About on ANTONIO VAZQUEZ BRUST</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:4321/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:4321/about/header/</link>
+      <link>http://localhost:4321/about/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/header/</guid>
-      <description>I&amp;rsquo;m a Hugo theme you&amp;rsquo;ll want to hang out with. &amp;#x1f1eb;&amp;#x1f1f7;&#xA;The page you are reading is based on a markdown file- look in content/about/ to edit. There, look inside the header, main, and sidebar folders to get started building your own &amp;ldquo;about&amp;rdquo; page.</description>
+      <guid>http://localhost:4321/about/header/</guid>
+      <description>I’m Tony, an Urban Data Science consultant &amp;amp; researcher. I specialize in the application of novel analytical tools and emerging technologies to better understand and manage our cities.&#xA;I hold a Bachelor&amp;rsquo;s in Computer Science, a Graduate Degree in Urban and Regional Planning, and a Master&amp;rsquo;s in Urban Informatics.&#xA;I have had the opportunity to teach postgraduate courses focused on data analysis and visualization at various institutions including the University of Buenos Aires, Torcuato di Tella University, UNSAM, and FLACSO.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:4321/about/sidebar/</link>
+      <link>http://localhost:4321/about/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/sidebar/</guid>
+      <guid>http://localhost:4321/about/sidebar/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
-      <title>Why apéro?</title>
-      <link>//localhost:4321/about/main/</link>
+      <title>My Resume</title>
+      <link>http://localhost:4321/about/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/main/</guid>
+      <guid>http://localhost:4321/about/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
   </channel>

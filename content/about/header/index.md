@@ -3,10 +3,14 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+I’m Tony, an Urban Data Science consultant & researcher. I specialize in the application of novel analytical tools and emerging technologies to better understand and manage our cities.
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+I hold a Bachelor's in Computer Science, a Graduate Degree in Urban and Regional Planning, and a Master's in Urban Informatics. 
+
+I have had the opportunity to teach postgraduate courses focused on data analysis and visualization at various institutions including the University of Buenos Aires, Torcuato di Tella University, UNSAM, and FLACSO.
+
+
