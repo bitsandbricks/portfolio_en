@@ -107,10 +107,10 @@ menu:
       title: Project Portfolio
       url: /project/
       weight: 2
-    - name: Blog
-      title: Blog
-      url: /blog/
-      weight: 3      
+    # - name: Blog
+    #   title: Blog
+    #   url: /blog/
+    #   weight: 3      
     # - name: Talks
     #   title: Talks
     #   url: /talk/
