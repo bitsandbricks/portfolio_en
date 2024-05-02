@@ -7,7 +7,9 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I’m Tony, an Urban Data Science consultant & researcher. I specialize in the application of novel analytical tools and emerging technologies to better understand and manage our cities.
+I’m Tony, an Urban Data Science consultant & researcher. 
+
+I specialize in the application of novel analytical tools and emerging technologies to better understand and manage our cities.
 
 I hold a Bachelor's in Computer Science, a Graduate Degree in Urban and Regional Planning, and a Master's in Urban Informatics. 
 
