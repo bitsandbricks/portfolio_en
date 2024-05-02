@@ -48,9 +48,6 @@ params:
   orgName: H. Antonio Vazquez Brust
   sharing_image: /img/papillons.jpg
   social:
-    - icon: github
-      icon_pack: fab
-      url: https://github.com/bitsandbricks
     # - icon: facebook-square
     #   icon_pack: fab
     #   url: https://www.facebook.com/hashtag/ap%C3%A9ro
@@ -60,6 +57,15 @@ params:
     - icon: twitter
       icon_pack: fab
       url: https://twitter.com/vazquezbrust
+    - icon: linkedin
+      icon_pack: fab
+      url: https://www.linkedin.com/in/avazquez/
+    - icon: github
+      icon_pack: fab
+      url: https://github.com/bitsandbricks
+    - icon: stack-overflow
+      icon_pack: fab
+      url: https://stackoverflow.com/users/3527951/havb
     # - icon: impactstory
     #   icon_pack: ai
     #   url: https://impactstory.org/u/0000-0002-8082-1890
