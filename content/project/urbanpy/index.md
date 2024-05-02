@@ -25,7 +25,7 @@ UrbanPy is an open-source Python library that automates the entire workflow requ
 
 UrbanPy is particularly useful for estimating accessibility indices—i.e., where people live farthest away from key resources and services such as schools, hospitals, bus stops, places to buy food, and so on.
 
-I prototyped and led its development, thanks to the support of the Inter-American Development Bank.
+I prototyped the library and led its development, thanks to the support of the Inter-American Development Bank.
 
 #### Why was it developed?
 

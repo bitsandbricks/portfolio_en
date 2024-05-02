@@ -83,7 +83,7 @@
       <link>http://localhost:4321/project/urbanpy/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/urbanpy/</guid>
-      <description>UrbanPy is an open-source Python library that automates the entire workflow required to obtain geographic boundaries of a city, estimate its population, locate places of interest, and even calculate travel times through the local street network.&#xA;UrbanPy is particularly useful for estimating accessibility indices—i.e., where people live farthest away from key resources and services such as schools, hospitals, bus stops, places to buy food, and so on.&#xA;I prototyped and led its development, thanks to the support of the Inter-American Development Bank.</description>
+      <description>UrbanPy is an open-source Python library that automates the entire workflow required to obtain geographic boundaries of a city, estimate its population, locate places of interest, and even calculate travel times through the local street network.&#xA;UrbanPy is particularly useful for estimating accessibility indices—i.e., where people live farthest away from key resources and services such as schools, hospitals, bus stops, places to buy food, and so on.&#xA;I prototyped the library and led its development, thanks to the support of the Inter-American Development Bank.</description>
     </item>
     <item>
       <title>Launching the Postgraduate Course in Big Data and Territorial Intelligence</title>
