@@ -1,5 +1,5 @@
 ---
-title: Project Portfolio
+title: Professional Portfolio
 #description: "Give your projects a place to live online."
 author: "H. Antonio Vazquez Brust"
 show_post_thumbnail: true

@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project Portfolio on ANTONIO VAZQUEZ BRUST</title>
+    <title>Professional Portfolio on ANTONIO VAZQUEZ BRUST</title>
     <link>http://localhost:4321/project/</link>
-    <description>Recent content in Project Portfolio on ANTONIO VAZQUEZ BRUST</description>
+    <description>Recent content in Professional Portfolio on ANTONIO VAZQUEZ BRUST</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Course: Data Science and Public Policy</title>
+      <link>http://localhost:4321/project/course-data-science-and-public-policy/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/course-data-science-and-public-policy/</guid>
+      <description>Hired by the Buenos Aires City Government, I designed the Data Science and Public Policy to address the growing need for governments to develop new capabilities in their employees. The goal was to provide teams from different government areas with data analysis skill to enable evidence-based decision-making.&#xA;Topics: Big Data and the City. Definitions, case analysis, future. New data sources, new roles in urban planning. Introduction to R, the environment for analyzing, modeling, visualizing, and communicating with data.</description>
+    </item>
+    <item>
+      <title> Index of Confidence and Access to Vaccines (ICAV)</title>
+      <link>http://localhost:4321/project/index-of-confidence-and-access-to-vaccines-icav/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/index-of-confidence-and-access-to-vaccines-icav/</guid>
+      <description>As a Research Fellow at the Bunge and Born Foundation, I helped develop the Index of Confidence and Access to Vaccines (ICAV). The index was designed to identify barriers that hinder access to vaccination, as well as changes in public confidence regarding the importance, safety, and efficacy of vaccines.&#xA;Since 2019, the Bunge and Born Foundation has been conducting the ICAV, a project to study and measure the causes of the wide gap between the optimal level of vaccination and the rates achieved in Argentina.</description>
+    </item>
     <item>
       <title>Data Science Training for Public Servants</title>
       <link>http://localhost:4321/project/data-science-training-for-public-servants/</link>
