@@ -11,7 +11,7 @@ intro: |
     <b>Inter-American Development Bank — Consultant</b><br>
     (feb 2019 - present)<br>
     Data Science consultant, developing data visualization, spatial analysis and statistical modeling tools for data driven policy evaluation.<br> 
-    Building georeferenced databases, applying statistical models and machine learning to analyze large scale data and test working hypotheses for the evaluation of IADB funded programs.<br><br>
+    Building georeferenced databases, applying statistical models and machine learning to analyze large scale data and test working hypotheses for the evaluation of IDB funded programs.<br><br>
     
     <b>Bunge & Born Foundation — Research Fellow</b>
     

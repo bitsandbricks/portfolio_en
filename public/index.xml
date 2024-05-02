@@ -6,7 +6,7 @@
     <description>Recent content in Antonio Vazquez Brust on ANTONIO VAZQUEZ BRUST</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
@@ -79,6 +79,20 @@
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
     </item>
     <item>
+      <title>UrbanPy</title>
+      <link>http://localhost:4321/project/urbanpy/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/urbanpy/</guid>
+      <description>UrbanPy is an open-source Python library that automates the entire workflow required to obtain geographic boundaries of a city, estimate its population, locate places of interest, and even calculate travel times through the local street network.&#xA;UrbanPy is particularly useful for estimating accessibility indices—i.e., where people live farthest away from key resources and services such as schools, hospitals, bus stops, places to buy food, and so on.&#xA;I prototyped and led its development, thanks to the support of the Inter-American Development Bank.</description>
+    </item>
+    <item>
+      <title>Launching the Postgraduate Course in Big Data and Territorial Intelligence</title>
+      <link>http://localhost:4321/project/launching-the-postgraduate-course-in-big-data-and-territorial-intelligence/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/launching-the-postgraduate-course-in-big-data-and-territorial-intelligence/</guid>
+      <description>The postgraduate course in Big Data and Territorial Intelligence at the Latin American Faculty of Social Sciences (FLACSO) teaches principles of computational statistics, programming, and Geographic Information Systems (GIS) alongside the theoretical framework for their application in territorial management.&#xA;I designed the curriculum for the course and acted as its academic coordinator, plus professor in Geographic Data Science, for its first three years.&#xA;The curse, still offered, teaches students how to use spatial analysis and data science to tackle complex geography-related problems.</description>
+    </item>
+    <item>
       <title>Set up your social</title>
       <link>http://localhost:4321/blog/social/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
@@ -149,6 +163,20 @@
       <description></description>
     </item>
     <item>
+      <title>Big Data and Neglected Diseases</title>
+      <link>http://localhost:4321/project/big-data-and-neglected-diseases/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/big-data-and-neglected-diseases/</guid>
+      <description>This interdisciplinary project combined the analysis of billions of anonymized mobile phone call records with epidemiological, sociodemographic, and healthcare databases. This allowed us to accurately identify areas characterized by high contact of their inhabitants with areas where the Chagas disease is endemic, and which also record a high level of socioeconomic and healthcare vulnerability.&#xA;The key to the results is that they allow for the identification of urban or rural areas where it is a priority to take healthcare actions and, as they are outside the endemic zone of the disease, they may not be considered as focal points of attention.</description>
+    </item>
+    <item>
+      <title>Environmental Conservation Fund Award - Urban Green Space Atlas</title>
+      <link>http://localhost:4321/project/environmental-conservation-fund-award-urban-green-space-atlas/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/environmental-conservation-fund-award-urban-green-space-atlas/</guid>
+      <description>The Environmental Conservation Fund aims to incentivize research and management projects that seek environmental conservation and sustainable development in the country. In 2019, I received the award in the Urban Environments category for my project Urban Green Space Atlas for Argentine Cities&#xA;There is growing evidence that urban green spaces act as reducers of inequality. Health benefits associated with access have a greater effect among socioeconomically vulnerable populations.&#xA;In Argentina, improving access and evaluating the effects of public green spaces is challenging, particularly on a federal scale, due to a lack of official and comprehensive information regarding the quality, location, and extent of urban green areas.</description>
+    </item>
+    <item>
       <title> Course: Data Science and Public Policy</title>
       <link>http://localhost:4321/project/course-data-science-and-public-policy/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -175,6 +203,13 @@
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/index-of-confidence-and-access-to-vaccines-icav/</guid>
       <description>As a Research Fellow at the Bunge and Born Foundation, I helped develop the Index of Confidence and Access to Vaccines (ICAV). The index was designed to identify barriers that hinder access to vaccination, as well as changes in public confidence regarding the importance, safety, and efficacy of vaccines.&#xA;Since 2019, the Bunge and Born Foundation has been conducting the ICAV, a project to study and measure the causes of the wide gap between the optimal level of vaccination and the rates achieved in Argentina.</description>
+    </item>
+    <item>
+      <title>The GPE (Georeferenced Program Evaluation) R package</title>
+      <link>http://localhost:4321/project/the-gpe-georeferenced-program-evaluation-r-package/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/the-gpe-georeferenced-program-evaluation-r-package/</guid>
+      <description>GPE (short for &amp;ldquo;Geo-referenced Program Evaluation&amp;rdquo;) is a package of functions for the R programming language. It was designed to make life easier for those analyzing movement dynamics in urban contexts.&#xA;For example, to measure the impact of social programs where access metrics (distances and travel times, places visited, etc.) are of interest. I originally developed the set of functions that now make up GPE to assist the Inter-American Development Bank (IDB) and the Buenos Aires City Government in evaluating the City&amp;rsquo;s Cultural Pass Program, an initiative to encourage access to cultural offerings (music, film, literature, etc.</description>
     </item>
     <item>
       <title>Contact</title>
@@ -209,7 +244,7 @@
       <link>http://localhost:4321/about/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/about/header/</guid>
-      <description>I’m Tony, an Urban Data Science consultant &amp;amp; researcher.&#xA;I specialize in the application of novel analytical tools and emerging technologies to better understand and manage our cities.&#xA;I hold a Bachelor&amp;rsquo;s in Computer Science, a Graduate Degree in Urban and Regional Planning, and a Master&amp;rsquo;s in Urban Informatics.&#xA;I have had the opportunity to teach postgraduate courses focused on data analysis and visualization at various institutions including the University of Buenos Aires, Torcuato di Tella University, UNSAM, and FLACSO.</description>
+      <description>I’m Tony, an Urban Data Science consultant &amp;amp; researcher &amp;amp; educator.&#xA;I help NGOs, governments, and international agencies harness the power of analytical tools and cutting-edge technologies to support the development of cities and regions. Previously, I worked in the private sector as a specialist in the design of large-scale computing architectures.&#xA;I hold a Master of Science degree in Urban Informatics, a graduate degree in Regional and Urban Planning, and a Bachelor&amp;rsquo;s in Computer Science.</description>
     </item>
     <item>
       <title></title>

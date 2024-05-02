@@ -7,12 +7,12 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I’m Tony, an Urban Data Science consultant & researcher. 
+I’m Tony, an Urban Data Science consultant & researcher & educator. 
 
-I specialize in the application of novel analytical tools and emerging technologies to better understand and manage our cities.
+I help NGOs, governments, and international agencies harness the power of analytical tools and cutting-edge technologies to support the development of cities and regions. Previously, I worked in the private sector as a specialist in the design of large-scale computing architectures.
 
-I hold a Bachelor's in Computer Science, a Graduate Degree in Urban and Regional Planning, and a Master's in Urban Informatics. 
+I hold a Master of Science degree in Urban Informatics, a graduate degree in Regional and Urban Planning, and a Bachelor's in Computer Science.
 
-I have had the opportunity to teach postgraduate courses focused on data analysis and visualization at various institutions including the University of Buenos Aires, Torcuato di Tella University, UNSAM, and FLACSO.
+I have designed and taught quite a few courses on programming, data analysis and data visualization tailored for diverse audiences including architects, urban planners, sociologists and even  and even legal professionals.
 
 

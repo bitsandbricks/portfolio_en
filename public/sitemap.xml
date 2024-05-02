@@ -38,10 +38,16 @@
     <loc>http://localhost:4321/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/</loc>
+    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/launching-the-postgraduate-course-in-big-data-and-territorial-intelligence/</loc>
+    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/</loc>
+    <lastmod>2021-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/</loc>
@@ -125,11 +131,26 @@
     <loc>http://localhost:4321/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/project/big-data-and-neglected-diseases/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/environmental-conservation-fund-award-urban-green-space-atlas/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/course-data-science-and-public-policy/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/blog/css-grid-scaffold/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/index-of-confidence-and-access-to-vaccines-icav/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/the-gpe-georeferenced-program-evaluation-r-package/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
@@ -141,9 +162,6 @@
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/project/data-science-training-for-public-servants/</loc>
-    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/project/</loc>
     <lastmod>2017-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/project/supporting-fair-housing-with-geospatial-data/</loc>
@@ -162,5 +180,7 @@
     <loc>http://localhost:4321/license/</loc>
   </url><url>
     <loc>http://localhost:4321/about/main/</loc>
+  </url><url>
+    <loc>http://localhost:4321/project/urbanpy/</loc>
   </url>
 </urlset>
