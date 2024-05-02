@@ -177,6 +177,13 @@
       <description>Font Sizes A A A A A A A A 6rem&#xA;(96px) 5rem&#xA;(80px) 3rem&#xA;(48px) 2.25rem&#xA;(36px) 1.5rem&#xA;(24px) 1.25rem&#xA;(20px) 1rem&#xA;(16px) .875rem&#xA;(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
     </item>
     <item>
+      <title>Data Science Training for Public Servants</title>
+      <link>http://localhost:4321/project/data-science-training-for-public-servants/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/data-science-training-for-public-servants/</guid>
+      <description>In 2019 I designed a training program based on the requirements of the Capacity Development for Innovation Directorate of the Ministry of Modernization of Argentina.&#xA;The training consisted of three practice-focused seminars. An introductory one on data science, which taught programming principles and analytics using R, the language for data analysis and visualization. Building on the knowledge acquired in the initial course, two specialization seminars allowed for a deeper understanding in key areas: one focused on statistical analysis and machine learning, and the other on spatial information analysis and visualization.</description>
+    </item>
+    <item>
       <title>Supporting Fair Housing with Geospatial Data</title>
       <link>http://localhost:4321/project/supporting-fair-housing-with-geospatial-data/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>

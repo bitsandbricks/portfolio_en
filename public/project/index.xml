@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Data Science Training for Public Servants</title>
+      <link>http://localhost:4321/project/data-science-training-for-public-servants/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/data-science-training-for-public-servants/</guid>
+      <description>In 2019 I designed a training program based on the requirements of the Capacity Development for Innovation Directorate of the Ministry of Modernization of Argentina.&#xA;The training consisted of three practice-focused seminars. An introductory one on data science, which taught programming principles and analytics using R, the language for data analysis and visualization. Building on the knowledge acquired in the initial course, two specialization seminars allowed for a deeper understanding in key areas: one focused on statistical analysis and machine learning, and the other on spatial information analysis and visualization.</description>
+    </item>
+    <item>
       <title>Supporting Fair Housing with Geospatial Data</title>
       <link>http://localhost:4321/project/supporting-fair-housing-with-geospatial-data/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
