@@ -91,8 +91,8 @@ menu:
     #   url: /license/
     #   weight: 1
     - name: Contact
-      title: Contact form
-      url: /contact/
+      title: Contact me!
+      url: /contact_me/
       weight: 2
     # - name: Contributors
     #   title: Contributors
