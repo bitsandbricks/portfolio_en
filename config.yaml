@@ -33,10 +33,11 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: Antonio Vazquez Brust - CV, Bio and Portfolio
   favicon: /img/favicon_bnb.ico
   headingFontFamily: sans-serif
-  #logo: /img/house-solid.png
+  logo: /img/house-solid.png
+  #logo: /img/logo_HAVB_alt.png
   mainSections:
     - about
     - project
@@ -85,7 +86,7 @@ params:
     label: 'comments :crystal_ball:'
     repo_name: apreshill/apero
     theme: boxy-light
-    use_utterances: yes
+    use_utterances: no
 taxonomies:
   category: categories
   series: series
@@ -109,8 +110,8 @@ menu:
       title: About Tony
       url: /about/
       weight: 1
-    - name: Projects
-      title: Project Portfolio
+    - name: Portfolio
+      title: Professional Portfolio
       url: /project/
       weight: 2
     # - name: Blog

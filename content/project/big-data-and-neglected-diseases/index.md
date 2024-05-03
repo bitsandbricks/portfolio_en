@@ -17,7 +17,7 @@ links:
 ---
 
 
-![Presenting the project at the XIX International Symposium on Neglected Diseases](featured.jpg)
+![Presenting the project at the XIX International Symposium on Neglected Diseases](featured_full.jpg)
 
 This interdisciplinary project combined the analysis of **billions of anonymized mobile phone call records** with epidemiological, sociodemographic, and healthcare databases. This allowed us to accurately identify areas characterized by high contact of their inhabitants with areas where the Chagas disease is endemic, and which also record a high level of socioeconomic and healthcare vulnerability.
 
