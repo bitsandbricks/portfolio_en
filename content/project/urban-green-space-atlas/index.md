@@ -1,5 +1,5 @@
 ---
-title: Environmental Conservation Fund Award - Urban Green Space Atlas
+title: Urban Green Space Atlas
 excerpt: "In 2019, I received the award in the _Urban Environments_ category for my project _Urban Green Space Atlas for Argentine Cities_."
 date: 2019-10-10
 author: "HAVB"
@@ -20,11 +20,12 @@ links:
   url: https://www.fundacionbyb.org/_files/ugd/2aae47_b76a7c2d5cf34a91a1342bc69bb09e95.pdf?index=true
 ---
 
-The Environmental Conservation Fund aims to incentivize research and management projects that seek environmental conservation and sustainable development in the country. In 2019, I received the award in the _Urban Environments_ category for my project **Urban Green Space Atlas for Argentine Cities**
-
 There is growing evidence that urban green spaces act as reducers of inequality. Health benefits associated with access have a greater effect among socioeconomically vulnerable populations.
 
 In Argentina, improving access and evaluating the effects of public green spaces is challenging, particularly on a federal scale, due to a lack of official and comprehensive information regarding the quality, location, and extent of urban green areas.
+
+The Environmental Conservation Fund aims to incentivize research and management projects that seek environmental conservation and sustainable development in the country. In 2019, I received the award in the _Urban Environments_ category for my project **Urban Green Space Atlas for Argentine Cities**
+
 
 {{< vimeo 383543469 >}}
 

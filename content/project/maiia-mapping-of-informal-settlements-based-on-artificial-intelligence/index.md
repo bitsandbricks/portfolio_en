@@ -1,7 +1,7 @@
 ---
 title: 'MAIIA: Mapping of Informal Settlements based on Artificial Intelligence'
 excerpt: "Open-source technology to make informal settlements visible."
-date: 2022-02-23
+date: 2023-11-10
 author: "HAVB"
 draft: false
 layout: single

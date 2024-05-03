@@ -6,7 +6,7 @@
     <description>Recent content in Antonio Vazquez Brust on ANTONIO VAZQUEZ BRUST</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
@@ -81,7 +81,7 @@
     <item>
       <title>MAIIA: Mapping of Informal Settlements based on Artificial Intelligence</title>
       <link>http://localhost:4321/project/maiia-mapping-of-informal-settlements-based-on-artificial-intelligence/</link>
-      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/maiia-mapping-of-informal-settlements-based-on-artificial-intelligence/</guid>
       <description>MAIIA is an algorithm that enables automated mapping of informal urban settlements through the analysis of satellite images. To facilitate its implementation, it is distributed as a pre-configured operating system image (via Docker) and alternatively as a set of Python notebooks, providing scripts that can train a detection model and apply it to new images in just two steps.&#xA;I led the development of the MAIIA algorithms thanks to the support of the Housing and Urban Development Division of the Inter-American Development Bank.</description>
     </item>
@@ -170,6 +170,13 @@
       <description></description>
     </item>
     <item>
+      <title>Big Data &#43; Artifical Intelligence, for Kids</title>
+      <link>http://localhost:4321/project/big-data-artifical-intelligence-for-kids/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/big-data-artifical-intelligence-for-kids/</guid>
+      <description>As a child, I was a fan of science and technology popularization books (but only if they had amazing illustrations, mind you). So, I was eager to make my contribution to the genre, on topics that are now central to my profession.&#xA;I wrote these two books imagining what I would want to know if I were a kid today:&#xA;Do You Want to Know&amp;hellip; What is Artificial Intelligence? and Do You Want to Know&amp;hellip; What is Big Data?</description>
+    </item>
+    <item>
       <title>Big Data and Neglected Diseases</title>
       <link>http://localhost:4321/project/big-data-and-neglected-diseases/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
@@ -177,11 +184,11 @@
       <description>This interdisciplinary project combined the analysis of billions of anonymized mobile phone call records with epidemiological, sociodemographic, and healthcare databases. This allowed us to accurately identify areas characterized by high contact of their inhabitants with areas where the Chagas disease is endemic, and which also record a high level of socioeconomic and healthcare vulnerability.&#xA;The key to the results is that they allow for the identification of urban or rural areas where it is a priority to take healthcare actions and, as they are outside the endemic zone of the disease, they may not be considered as focal points of attention.</description>
     </item>
     <item>
-      <title>Environmental Conservation Fund Award - Urban Green Space Atlas</title>
-      <link>http://localhost:4321/project/environmental-conservation-fund-award-urban-green-space-atlas/</link>
+      <title>Urban Green Space Atlas</title>
+      <link>http://localhost:4321/project/urban-green-space-atlas/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/environmental-conservation-fund-award-urban-green-space-atlas/</guid>
-      <description>The Environmental Conservation Fund aims to incentivize research and management projects that seek environmental conservation and sustainable development in the country. In 2019, I received the award in the Urban Environments category for my project Urban Green Space Atlas for Argentine Cities&#xA;There is growing evidence that urban green spaces act as reducers of inequality. Health benefits associated with access have a greater effect among socioeconomically vulnerable populations.&#xA;In Argentina, improving access and evaluating the effects of public green spaces is challenging, particularly on a federal scale, due to a lack of official and comprehensive information regarding the quality, location, and extent of urban green areas.</description>
+      <guid>http://localhost:4321/project/urban-green-space-atlas/</guid>
+      <description>There is growing evidence that urban green spaces act as reducers of inequality. Health benefits associated with access have a greater effect among socioeconomically vulnerable populations.&#xA;In Argentina, improving access and evaluating the effects of public green spaces is challenging, particularly on a federal scale, due to a lack of official and comprehensive information regarding the quality, location, and extent of urban green areas.&#xA;The Environmental Conservation Fund aims to incentivize research and management projects that seek environmental conservation and sustainable development in the country.</description>
     </item>
     <item>
       <title> Course: Data Science and Public Policy</title>
