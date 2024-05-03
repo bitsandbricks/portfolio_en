@@ -29,13 +29,12 @@ The tool was developed with an emphasis on its ease of implementation, to lower 
 
 #### Application example
 
-Having better information, reliable and up-to-date, is exactly what the National Ministry of Urbanism in Paraguay needed when the Pandemic erupted. It was, and still is, imperative to bring basic services like clean water and sanitation to vulnerable communities in densely populated urban areas. The challenge?: there were no updated records of the location vulnerable communities, and no information about their living conditions.
-
-![Asuncion metro area settlements](Asuncion_metro_area_settlements.png)
-
 In 2021, the Inter-American Development Bank assisted the National Ministry of Urbanism in Paraguay to develop a cost-effective, quickly implemented methodology to keep updated records of the location and living conditions in the country's urban informal settlements.
 
 MAIIA was a key component of this project because it can be fed with publicly available and free satellite images, making it possible to survey any area at a very low cost, a small fraction of a traditional on-the-ground survey effort.
+
+
+![Asuncion metro area settlements](Asuncion_metro_area_settlements.png)
 
 We piloted this technology in the Metropolitan Area of Asunción, the largest and most densely populated city in Paraguay. After being trained with examples of local settlements, the MAIIA algorithm learned to identify them in images and was able to identify more than 95% of the already known informal areas. Even more importantly, it located many new ones.
 
