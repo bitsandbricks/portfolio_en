@@ -6,7 +6,7 @@
     <description>Recent content in Antonio Vazquez Brust on ANTONIO VAZQUEZ BRUST</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
@@ -77,6 +77,13 @@
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/collection/day02/03-blogdown/</guid>
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:4321/about/header/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/header/</guid>
+      <description>I’m Tony, an Urban Data Science consultant &amp;amp; researcher &amp;amp; educator.&#xA;I help NGOs, governments, and international agencies harness the power of analytical tools and emergent technologies to support the development of cities and regions. Previously, I worked in the private sector as a specialist in the design of large-scale computing architectures.&#xA;I hold a Master of Science degree in Urban Informatics, a graduate degree in Regional and Urban Planning, and a Bachelor&amp;rsquo;s in Computer Science.</description>
     </item>
     <item>
       <title>MAIIA: Mapping of Informal Settlements based on Artificial Intelligence</title>
@@ -252,13 +259,6 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/supporting-fair-housing-with-geospatial-data/</guid>
       <description>I collaborated as a data scientist with The American City Coalition, an NGO in Boston that develops strategies for revitalizing neighborhoods where vulnerable populations reside.&#xA;I was responsible for the large-scale collection and analysis of geospatial and demographic data to assess the effectiveness of policies aimed at racial desegregation based on access to public housing in the state of Massachusetts, USA.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:4321/about/header/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/about/header/</guid>
-      <description>I’m Tony, an Urban Data Science consultant &amp;amp; researcher &amp;amp; educator.&#xA;I help NGOs, governments, and international agencies harness the power of analytical tools and cutting-edge technologies to support the development of cities and regions. Previously, I worked in the private sector as a specialist in the design of large-scale computing architectures.&#xA;I hold a Master of Science degree in Urban Informatics, a graduate degree in Regional and Urban Planning, and a Bachelor&amp;rsquo;s in Computer Science.</description>
     </item>
     <item>
       <title></title>
