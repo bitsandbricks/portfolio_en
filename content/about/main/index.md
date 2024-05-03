@@ -1,11 +1,19 @@
 ---
 ## Configure page content in wide column
-title: "My Resume" # leave blank to exclude
+title: # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
-intro: | 
+intro: |
+    I help NGOs, governments, and international agencies harness the power of analytical tools and emergent technologies to support the development of cities and regions. Previously, I worked in the private sector as a specialist in the design of large-scale computing architectures.
+
+    I hold a Master of Science degree in Urban Informatics, a graduate degree in Regional and Urban Planning, and a Bachelor's in Computer Science.
+
+    I have designed and taught quite a few courses on programming, data analysis and data visualization tailored for diverse audiences including architects, urban planners, sociologists and even legal professionals.
+    
+    ## My Resume
+    
     <b>RECENT PROFESSIONAL EXPERIENCE</b>
     
     <b>Inter-American Development Bank — Consultant</b><br>

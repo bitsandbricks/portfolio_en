@@ -13,20 +13,20 @@
       <link>http://localhost:4321/about/header/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/about/header/</guid>
-      <description>I’m Tony, an Urban Data Science consultant &amp;amp; researcher &amp;amp; educator.&#xA;I help NGOs, governments, and international agencies harness the power of analytical tools and emergent technologies to support the development of cities and regions. Previously, I worked in the private sector as a specialist in the design of large-scale computing architectures.&#xA;I hold a Master of Science degree in Urban Informatics, a graduate degree in Regional and Urban Planning, and a Bachelor&amp;rsquo;s in Computer Science.</description>
+      <description>I’m Tony, an Urban Data Science consultant &amp;amp; researcher &amp;amp; educator.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:4321/about/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/main/</guid>
+      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:4321/about/sidebar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/about/sidebar/</guid>
-      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
-    </item>
-    <item>
-      <title>My Resume</title>
-      <link>http://localhost:4321/about/main/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/about/main/</guid>
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
   </channel>

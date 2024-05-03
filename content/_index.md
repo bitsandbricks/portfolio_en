@@ -1,7 +1,7 @@
 ---
 title: "Antonio Vazquez Brust"
 subtitle: "Urban Data Scientist"
-description: "Hi there! I'm Tony, an Urban Data Science consultant & researcher. I specialize in the application of novel analytical tools and emerging technologies to better understand and manage our cities."
+description: "Hi there! I'm Tony, an Urban Data Science consultant,  researcher and educator. I specialize in the application of novel analytical tools and emerging technologies to better understand and plan our cities."
 images:
   - img/congreso_ambiental_mendoza_2022.jpg
 image_left: true
