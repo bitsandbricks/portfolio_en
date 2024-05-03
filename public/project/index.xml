@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>MAIIA: Mapping of Informal Settlements based on Artificial Intelligence</title>
+      <link>http://localhost:4321/project/maiia-mapping-of-informal-settlements-based-on-artificial-intelligence/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/maiia-mapping-of-informal-settlements-based-on-artificial-intelligence/</guid>
+      <description>MAIIA is an algorithm that enables automated mapping of informal urban settlements through the analysis of satellite images. To facilitate its implementation, it is distributed as a pre-configured operating system image (via Docker) and alternatively as a set of Python notebooks, providing scripts that can train a detection model and apply it to new images in just two steps.&#xA;I led the development of the MAIIA algorithms thanks to the support of the Housing and Urban Development Division of the Inter-American Development Bank.</description>
+    </item>
+    <item>
       <title>UrbanPy</title>
       <link>http://localhost:4321/project/urbanpy/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
