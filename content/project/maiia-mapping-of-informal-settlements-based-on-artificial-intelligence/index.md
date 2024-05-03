@@ -29,17 +29,18 @@ The tool was developed with an emphasis on its ease of implementation, to lower 
 
 #### Application example
 
-In 2021, the Inter-American Development Bank assisted the National Ministry of Urbanism in Paraguay to develop a cost-effective, quickly implemented methodology to keep updated records of the location and living conditions in the country's urban informal settlements.
 
-MAIIA was a key component of this project because it can be fed with publicly available and free satellite images, making it possible to survey any area at a very low cost, a small fraction of a traditional on-the-ground survey effort.
+From 2021 to 2023, the Inter-American Development Bank assisted the National Ministry of Urbanism in Paraguay in developing a cost-effective methodology to maintain updated records of the country's urban informal settlements and the living conditions within them.
+
+MAIIA was a crucial component of this project as it can be fed with publicly available and free satellite images, enabling the survey of any area at a small fraction of the cost of a traditional on-the-ground survey effort.
 
 
 ![Asuncion metro area settlements](Asuncion_metro_area_settlements.png)
 
 We piloted this technology in the Metropolitan Area of Asunción, the largest and most densely populated city in Paraguay. After being trained with examples of local settlements, the MAIIA algorithm learned to identify them in images and was able to identify more than 95% of the already known informal areas. Even more importantly, it located many new ones.
 
-MAIIA's output guided the follow-up field work, as the areas identified as informal settlements by the algorithm were visited by census-takers that interviewed residents and obtained a clear picture of their needs.
+MAIIA's output guided the follow-up field work, as the areas identified as informal settlements by the algorithm were visited by census-takers that interviewed residents and [obtained a clear picture of their needs](https://www.muvh.gov.py/blog/2024/presentan-estudios-y-herramientas-de-visibilizacion-de-comunidades-vulnerables-del-ama.html).
 
-I tell the story behind this project in the "Neighborhoods, Big Data and AI" episode of _Urban Intelligence_, the official podcast from the IDB Cities Lab.
+I explain the technology behind this project in the "Neighborhoods, Big Data and AI" episode of _Urban Intelligence_, the official podcast from the IDB Cities Lab.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/34jiJSdCY9YG5yUWmbbU1y?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
