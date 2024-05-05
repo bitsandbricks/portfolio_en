@@ -6,14 +6,28 @@
     <description>Recent content in Professional Portfolio on ANTONIO VAZQUEZ BRUST</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>URSA: A Tool to Guide Urban Planning with Satellite Data</title>
+      <link>http://localhost:4321/project/ursa-a-tool-to-guide-urban-planning-with-satellite-data/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ursa-a-tool-to-guide-urban-planning-with-satellite-data/</guid>
+      <description></description>
+    </item>
     <item>
       <title>MAIIA: Mapping of Informal Settlements based on Artificial Intelligence</title>
       <link>http://localhost:4321/project/maiia-mapping-of-informal-settlements-based-on-artificial-intelligence/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/maiia-mapping-of-informal-settlements-based-on-artificial-intelligence/</guid>
       <description>MAIIA is an algorithm that enables automated mapping of informal urban settlements through the analysis of satellite images. To facilitate its implementation, it is distributed as a pre-configured operating system image (via Docker) and alternatively as a set of Python notebooks, providing scripts that can train a detection model and apply it to new images in just two steps.&#xA;I led the development of the MAIIA algorithms thanks to the support of the Housing and Urban Development Division of the Inter-American Development Bank.</description>
+    </item>
+    <item>
+      <title>AI, Satellites and Drones to Monitor Illegal Waste Dumps</title>
+      <link>http://localhost:4321/project/ai-satellites-and-drones-to-monitor-illegal-waste-dumps/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ai-satellites-and-drones-to-monitor-illegal-waste-dumps/</guid>
+      <description>Presenting the methodology at the Urban-Environmental Strategies Congress in Mendoza, Argentina&#xA;In recent years, the severe social and environmental impact of illegal waste dumping sites has made them one of the most serious problems faced by cities in the Global South, in a context of scarce information available for decision-making.&#xA;With the support of the Bunge &amp;amp; Born Foundation, I led the development of a data-driven model combining neural network-based object detection and satellite images to help identify the location of dumping sites and track their evolution over time.</description>
     </item>
     <item>
       <title>UrbanPy</title>
@@ -28,6 +42,13 @@
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/launching-the-postgraduate-course-in-big-data-and-territorial-intelligence/</guid>
       <description>The postgraduate course in Big Data and Territorial Intelligence at the Latin American Faculty of Social Sciences (FLACSO) teaches principles of computational statistics, programming, and Geographic Information Systems (GIS) alongside the theoretical framework for their application in territorial management.&#xA;I designed the curriculum for the course and acted as its academic coordinator, plus professor in Geographic Data Science, for its first three years.&#xA;The curse, still offered, teaches students how to use spatial analysis and data science to tackle complex geography-related problems.</description>
+    </item>
+    <item>
+      <title>Data Science Training for Public Servants</title>
+      <link>http://localhost:4321/project/data-science-training-for-public-servants/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/data-science-training-for-public-servants/</guid>
+      <description>In 2019 I designed a training program based on the requirements of the Capacity Development for Innovation Directorate of the Ministry of Modernization of Argentina.&#xA;The training consisted of three practice-focused seminars. An introductory one on data science, which taught programming principles and analytics using R, the language for data analysis and visualization. Building on the knowledge acquired in the initial course, two specialization seminars allowed for a deeper understanding in key areas: one focused on statistical analysis and machine learning, and the other on spatial information analysis and visualization.</description>
     </item>
     <item>
       <title>Big Data &#43; Artifical Intelligence, for Kids</title>
@@ -70,13 +91,6 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/the-gpe-georeferenced-program-evaluation-r-package/</guid>
       <description>GPE (short for &amp;ldquo;Geo-referenced Program Evaluation&amp;rdquo;) is a package of functions for the R programming language. It was designed to make life easier for those analyzing movement dynamics in urban contexts.&#xA;For example, to measure the impact of social programs where access metrics (distances and travel times, places visited, etc.) are of interest. I originally developed the set of functions that now make up GPE to assist the Inter-American Development Bank (IDB) and the Buenos Aires City Government in evaluating the City&amp;rsquo;s Cultural Pass Program, an initiative to encourage access to cultural offerings (music, film, literature, etc.</description>
-    </item>
-    <item>
-      <title>Data Science Training for Public Servants</title>
-      <link>http://localhost:4321/project/data-science-training-for-public-servants/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/data-science-training-for-public-servants/</guid>
-      <description>In 2019 I designed a training program based on the requirements of the Capacity Development for Innovation Directorate of the Ministry of Modernization of Argentina.&#xA;The training consisted of three practice-focused seminars. An introductory one on data science, which taught programming principles and analytics using R, the language for data analysis and visualization. Building on the knowledge acquired in the initial course, two specialization seminars allowed for a deeper understanding in key areas: one focused on statistical analysis and machine learning, and the other on spatial information analysis and visualization.</description>
     </item>
     <item>
       <title>Supporting Fair Housing with Geospatial Data</title>

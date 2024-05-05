@@ -1,7 +1,7 @@
 ---
 title: Data Science Training for Public Servants
 excerpt: "I designed and delivered the Training Program in Data Science for Public Servants at the Argentine's Government Academy of Public Policy Design."
-date: 2017-02-01
+date: 2020-02-01
 author: "HAVB"
 draft: false
 layout: single

@@ -86,11 +86,25 @@
       <description>I’m Tony, an Urban Data Science consultant &amp;amp; researcher &amp;amp; educator.</description>
     </item>
     <item>
+      <title>URSA: A Tool to Guide Urban Planning with Satellite Data</title>
+      <link>http://localhost:4321/project/ursa-a-tool-to-guide-urban-planning-with-satellite-data/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ursa-a-tool-to-guide-urban-planning-with-satellite-data/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>MAIIA: Mapping of Informal Settlements based on Artificial Intelligence</title>
       <link>http://localhost:4321/project/maiia-mapping-of-informal-settlements-based-on-artificial-intelligence/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/maiia-mapping-of-informal-settlements-based-on-artificial-intelligence/</guid>
       <description>MAIIA is an algorithm that enables automated mapping of informal urban settlements through the analysis of satellite images. To facilitate its implementation, it is distributed as a pre-configured operating system image (via Docker) and alternatively as a set of Python notebooks, providing scripts that can train a detection model and apply it to new images in just two steps.&#xA;I led the development of the MAIIA algorithms thanks to the support of the Housing and Urban Development Division of the Inter-American Development Bank.</description>
+    </item>
+    <item>
+      <title>AI, Satellites and Drones to Monitor Illegal Waste Dumps</title>
+      <link>http://localhost:4321/project/ai-satellites-and-drones-to-monitor-illegal-waste-dumps/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/ai-satellites-and-drones-to-monitor-illegal-waste-dumps/</guid>
+      <description>Presenting the methodology at the Urban-Environmental Strategies Congress in Mendoza, Argentina&#xA;In recent years, the severe social and environmental impact of illegal waste dumping sites has made them one of the most serious problems faced by cities in the Global South, in a context of scarce information available for decision-making.&#xA;With the support of the Bunge &amp;amp; Born Foundation, I led the development of a data-driven model combining neural network-based object detection and satellite images to help identify the location of dumping sites and track their evolution over time.</description>
     </item>
     <item>
       <title>UrbanPy</title>
@@ -170,6 +184,13 @@
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.&#xA;You can embed an R code chunk like this:&#xA;summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     <item>
+      <title>Data Science Training for Public Servants</title>
+      <link>http://localhost:4321/project/data-science-training-for-public-servants/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/data-science-training-for-public-servants/</guid>
+      <description>In 2019 I designed a training program based on the requirements of the Capacity Development for Innovation Directorate of the Ministry of Modernization of Argentina.&#xA;The training consisted of three practice-focused seminars. An introductory one on data science, which taught programming principles and analytics using R, the language for data analysis and visualization. Building on the knowledge acquired in the initial course, two specialization seminars allowed for a deeper understanding in key areas: one focused on statistical analysis and machine learning, and the other on spatial information analysis and visualization.</description>
+    </item>
+    <item>
       <title>A seedling</title>
       <link>http://localhost:4321/talk/seedling/</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
@@ -245,13 +266,6 @@
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       <guid>http://localhost:4321/elements/</guid>
       <description>Font Sizes A A A A A A A A 6rem&#xA;(96px) 5rem&#xA;(80px) 3rem&#xA;(48px) 2.25rem&#xA;(36px) 1.5rem&#xA;(24px) 1.25rem&#xA;(20px) 1rem&#xA;(16px) .875rem&#xA;(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
-    </item>
-    <item>
-      <title>Data Science Training for Public Servants</title>
-      <link>http://localhost:4321/project/data-science-training-for-public-servants/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/data-science-training-for-public-servants/</guid>
-      <description>In 2019 I designed a training program based on the requirements of the Capacity Development for Innovation Directorate of the Ministry of Modernization of Argentina.&#xA;The training consisted of three practice-focused seminars. An introductory one on data science, which taught programming principles and analytics using R, the language for data analysis and visualization. Building on the knowledge acquired in the initial course, two specialization seminars allowed for a deeper understanding in key areas: one focused on statistical analysis and machine learning, and the other on spatial information analysis and visualization.</description>
     </item>
     <item>
       <title>Supporting Fair Housing with Geospatial Data</title>
