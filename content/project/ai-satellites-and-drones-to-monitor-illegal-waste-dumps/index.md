@@ -42,7 +42,7 @@ There, the detection algorithm identified 1,573 areas covered in garbage, rangin
 After obtaining a complete map of the garbage dumps in the area, the Environmental Secretariat was able to use the information to determine the affected points and coordinate efforts with neighborhood residents and representatives of neighbors affected by foul odors, pollution, or smoke from burning tires to clean up the dumps. 
 
 
-With this information, the stakeholders defined a management plan and an action map. In 2022, an on-site inspection was carried out, and the detected microdumps were cleaned up.
+With this information, the stakeholders defined a management plan and an action map. In 2022, an on-site inspection was carried out, and the detected waste dumps were cleaned up.
 
 #### Selected media coverage: (in Spanish)
 
@@ -50,6 +50,6 @@ With this information, the stakeholders defined a management plan and an action 
 
 - [The City and the Bunge & Born Foundation Meet for Important Environmental Project](https://ciudaddemendoza.gob.ar/2022/08/18/la-ciudad-y-la-fundacion-bunge-y-born-se-reunieron-por-importante-proyecto-ambiental/)
 
-- [Local Governments Detect Microdumps Using Satellite Images and Artificial Intelligence](https://www.mascomunidad.org.ar/gobiernos-locales-detectan-basurales-con-inteligencia-artificial/)
+- [Local Governments Detect waste dumps Using Satellite Images and Artificial Intelligence](https://www.mascomunidad.org.ar/gobiernos-locales-detectan-basurales-con-inteligencia-artificial/)
 
 - [First Collaborative Meeting of Urban-Environmental Strategies](https://infomendoza.info/y-ademas/primer-encuentro-colaborativo-de-estrategias-urbano-ambientales)
