@@ -97,7 +97,7 @@
       <link>http://localhost:4321/project/maiia-mapping-of-informal-settlements-based-on-artificial-intelligence/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/maiia-mapping-of-informal-settlements-based-on-artificial-intelligence/</guid>
-      <description>MAIIA is a collection of algorithms that enable automated mapping of informal urban settlements through the analysis of satellite images. To facilitate its implementation, it is distributed as a pre-configured operating system image (via Docker) and alternatively as a set of Python notebooks, providing scripts that can train a detection model and apply it to new images in just two steps.&#xA;I led the development of the MAIIA algorithms thanks to the support of the Housing and Urban Development Division of the Inter-American Development Bank.</description>
+      <description>MAIIA is a collection of AI algorithms that enable automated mapping of informal urban settlements through the analysis of satellite images. To facilitate its implementation, it is distributed as a pre-configured operating system image (via Docker) and alternatively as a set of Python notebooks, providing scripts that can train a detection model and apply it to new images in just two steps.&#xA;I led the development of the MAIIA algorithms thanks to the support of the Housing and Urban Development Division of the Inter-American Development Bank.</description>
     </item>
     <item>
       <title>AI, Satellites and Drones to Monitor Illegal Waste Dumps</title>

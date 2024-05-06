@@ -18,7 +18,7 @@ links:
 ---
 ![MAIIA in action](maiia_in_action_0.gif)
 
-MAIIA is a collection of algorithms that enable automated mapping of informal urban settlements through the analysis of satellite images. To facilitate its implementation, it is distributed as a pre-configured operating system image (via [Docker](https://www.docker.com/)) and alternatively as a set of Python notebooks, providing scripts that can train a detection model and apply it to new images in just two steps.
+MAIIA is a collection of AI algorithms that enable automated mapping of informal urban settlements through the analysis of satellite images. To facilitate its implementation, it is distributed as a pre-configured operating system image (via [Docker](https://www.docker.com/)) and alternatively as a set of Python notebooks, providing scripts that can train a detection model and apply it to new images in just two steps.
 
 I led the development of the MAIIA algorithms thanks to the support of the Housing and Urban Development Division of the Inter-American Development Bank. The tool was originally developed as part of a technical assistance program for the National Planning Department of Colombia, in order to provide the institution with a tool to produce and update precise maps with the location and extent of informal settlements in Colombian cities.
 
