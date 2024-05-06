@@ -23,7 +23,7 @@ links:
 
 Open data, in general, and data obtained through satellite records, in particular, offer countless uses for urban planning.
 
-These data not only revolutionize the ability to study our metropolitan areas but can also drive more informed and strategic decision-making for sustainable urban development. Yet, there remains a significant obstacle that limits access to these resources: technical complexity, which imposes the need for specialized personnel and equipment often beyond the reach of local management teams.
+These data not only revolutionize the ability to study our metropolitan areas but can also drive more informed and strategic decision-making for sustainable urban development. Yet, there remains a significant obstacle that limits access to these resources: technical complexity, which imposes the need for specialized personnel and equipment often beyond the reach of local governments.
 
 I conceived URSA (_Urban Reporting based on Satellite Analysis_) as an open source application designed to bridge this gap. This tool was developed from the [IDB Cities Lab](https://blogs.iadb.org/ciudades-sostenibles/en/category/emerging-cities-latin-america-caribbean/idb-cities-lab/) with scientific and technical support from the [Center for the Future of Cities](https://futurociudades.tec.mx/) at the Monterrey Institute of Technology.
 
