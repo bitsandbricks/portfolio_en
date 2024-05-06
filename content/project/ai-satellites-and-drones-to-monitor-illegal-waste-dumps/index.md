@@ -39,10 +39,7 @@ During 2021 and 2022, the tool was tested by monitoring a specific site where in
 
 There, the detection algorithm identified 1,573 areas covered in garbage, ranging in size from a few centimeters to over 1,600 m2.
 
-After obtaining a complete map of the garbage dumps in the area, the Environmental Secretariat was able to use the information to determine the affected points and coordinate efforts with neighborhood residents and representatives of neighbors affected by foul odors, pollution, or smoke from burning tires to clean up the dumps. 
-
-
-With this information, the stakeholders defined a management plan and an action map. In 2022, an on-site inspection was carried out, and the detected waste dumps were cleaned up.
+After obtaining a complete map of the garbage dumps in the area, the Environmental Secretariat was able to coordinate efforts with residents and other stakeholders affected by foul odors, pollution, or smoke from burning tires, to clean up the dumps. In 2022, an on-site inspection was carried out, and the detected waste dumps were cleaned up.
 
 #### Selected media coverage: (in Spanish)
 
