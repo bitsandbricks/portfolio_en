@@ -7,7 +7,7 @@ headline: |
   Nice to meet you.
 ---
 <!-- this is a subheadline -->
-__I’m Tony, an Urban Data Science [consultant & researcher & educator](../../project/).__
+__I’m Tony, an AI / Data Science [consultant & researcher & educator](../../project/).__
 
 
 

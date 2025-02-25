@@ -1,5 +1,5 @@
 ---
-title: Launching the Postgraduate Course in Big Data and Territorial Intelligence
+title: Launching FLACSO's Postgraduate Course in Big Data and Territorial Intelligence
 excerpt: "As a Research Fellow at the Bunge and Born Foundation, I helped harness Big Data to combat Chagas, a neglected life-threatening disease that affects over a million people in Argentina."
 date: 2021-04-10
 author: "HAVB"
